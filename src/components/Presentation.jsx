@@ -1,10 +1,10 @@
 function Presentation () {
     return (
         <>
-        <div id="apropos" className="pt-40 grid ">
+        <div id="presentation" className="my-20 pt-20 grid ">
             <div className="bg-yellow-200 grid items-center justify-center">
-                <p className="bg-green-200 px-5 text-4xl font-inconsolata">Samuel Morisson</p>
-                <p className="bg-red-200 pl-5 text-4xl font-inconsolata">*étudiant info*</p>
+                <p className="bg-green-200 px-5 text-6xl font-inconsolata">Samuel Morisson</p>
+                <p className="bg-red-200 pl-5 text-4xl text-left font-inconsolata">*étudiant info*</p>
             </div>
             <div>
                 <div>
