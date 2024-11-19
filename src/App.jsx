@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <div className="bg-slate-0">
+    <div>
       <div>
         <NavBar />
         <Presentation />
@@ -18,7 +18,24 @@ function App() {
         <Projets />
         <Contact />
       </div>
-      <p className="text-red-500">remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
+        <p>remplissage</p>
         <p>remplissage</p>
         <p>remplissage</p>
         <p>remplissage</p>
