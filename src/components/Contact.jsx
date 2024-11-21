@@ -4,7 +4,7 @@ function Contact () {
         <div id="contact" className="flex flex-col items-center my-20 pt-20">
             <div className="flex flex-col items-center w-3/4">
 
-                <div className="text-center mb-5">
+                <div className="text-center mb-9">
                     <h1 className="font-inconsolata text-6xl">Contact</h1>
                 </div>
 
