@@ -9,6 +9,7 @@ function Contact () {
                 </div>
 
                 <form className="z-10 flex flex-col items-center w-full bg-slate-200 rounded-3xl border-2 border-lime-500 shadow-xl py-3">
+                    <p>En cours de développement</p>
                     <div className="flex flex-col md:w-3/5 minSize:w-4/5 my-3">
                         <label className="font-inconsolata text-2xl text-left">Email:</label>
                         <input type="email" className="p-1 bg-slate-0 shadow-inner-custom border-2 border-slate-300 hover:border-lime-500 focus:outline-none focus:ring-1 focus:border-lime-500 text-xl"></input>
