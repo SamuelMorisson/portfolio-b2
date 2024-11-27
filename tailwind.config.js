@@ -6,6 +6,21 @@ export default {
   ],
   theme: {
     extend: {
+      borderWidth: {
+        '3': '3px',
+      },
+      colors: {
+        greentest: '#CDEAA1',
+        redtest: '#fee4e4',
+        text: '#E7ECF3',
+      },
+      screens: {
+        'minNavBar': '760px',
+        'smallTextNavBar': '900px',
+        'xs': '400px',
+        '2xs': '360px',
+        'minSize': '100px',
+      },
       fontFamily: {
         inconsolata: ['Inconsolata']
       },
