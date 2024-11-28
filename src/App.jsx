@@ -1,9 +1,10 @@
 import Presentation from "./components/Presentation"
-import Experience from "./components/Experience"
+//import Experience from "./components/Experience"
 import Competences from "./components/Competences"
 import Projets from "./components/Projets"
 import Contact from "./components/Contact"
 import NavBar from './components/NavBar'
+//import Burger from "./BurgerTest"
 import './App.css'
 import './index.css'
 
@@ -12,10 +13,8 @@ function App() {
   return (
     /*
     Reste à faire:
-     - Titre de chaque partie identique
-     - Site responsive:
-      > NavBar menu burger
-      > Partie présentation
+     - Titre de chaque partie identique (corriger Projet)
+     - Bug NavBar Burger occupe l'écran même absent
      - Améliorer présentation
      - Image absente sur Netlify
      - Formulaire de contact fonctionnel
