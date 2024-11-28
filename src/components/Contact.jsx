@@ -3,13 +3,12 @@ function Contact () {
         <>
         <div id="contact" className="flex flex-col items-center my-20 pt-20">
             <div className="flex flex-col items-center md:w-4/5 sm:w-4/5">
-
                 <div className="text-center mb-9">
                     <h1 className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl">Me Contacter</h1>
                 </div>
 
                 <form className="z-10 flex flex-col items-center w-full bg-slate-200 rounded-3xl border-2 border-lime-500 shadow-xl py-3">
-                    <p>En cours de développement</p>
+                    <p className="font-inconsolata italic">(En cours de développement)</p>
                     <div className="flex flex-col md:w-3/5 minSize:w-4/5 my-3">
                         <label className="font-inconsolata text-2xl text-left">Email:</label>
                         <input type="email" className="p-1 bg-slate-0 shadow-inner-custom border-2 border-slate-300 hover:border-lime-500 focus:outline-none focus:ring-1 focus:border-lime-500 text-xl"></input>
@@ -30,9 +29,9 @@ function Contact () {
                         <p className="font-inconsolata text-xl underline">samuel.morisson@ynov.com</p>
                     </div>
                     <div className="lg:w-1/2 minSize:w-2/3">
-                        <p className="font-inconsolata text-xl"> Mon CV:</p>
-                        <a href="./public/CV Samuel Morisson.pdf" target="_blank" rel="noopener noreferrer">
-                            <img src="./public/screenshot_cv.png" className="items-center border-4 border-slate-400 hover:border-lime-500 hover:shadow-2xl overflow-hidden" />
+                        <p className="font-inconsolata text-xl"> Télécharger mon CV:</p>
+                        <a href="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/CV%20Samuel%20Morisson.pdf?raw=true" target="_blank" rel="noopener noreferrer">
+                            <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cv.png?raw=true" className="items-center border-4 border-slate-400 hover:border-lime-500 hover:shadow-2xl overflow-hidden" />
                         </a>
                     </div>
                 </div>

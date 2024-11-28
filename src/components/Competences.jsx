@@ -12,17 +12,17 @@ function Competences () {
                         <div className="flex flex-col xs:place-items-center font-inconsolata text-3xl">
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_webdev.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_webdev.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•HTML/CSS</p>
                             </div>
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_javascript.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_javascript.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•JavaScript</p>
                             </div>
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_react.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_react.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•React</p>
                             </div>
 
@@ -35,17 +35,17 @@ function Competences () {
                         <div className="flex flex-col xs:place-items-center font-inconsolata text-3xl">
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_python.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_python.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•Python</p>
                             </div>
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_java.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_java.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•Java</p>
                             </div>
 
                             <div className="flex flex-row items-center w-2/3 m-5">
-                                <img src="./public/logo_cpp.png" className="w-1/3 mx-2 hidden xs:block" />
+                                <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_cpp.png?raw=true" className="w-1/3 mx-2 hidden xs:block" />
                                 <p className="">•C++</p>
                             </div>
 
