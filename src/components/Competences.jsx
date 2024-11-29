@@ -6,8 +6,9 @@ function Competences () {
                 <h1 className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl mb-9">Compétences</h1>
             </div>
 
-            <div className="grid lg:grid-cols-2 md:grid-cols-1 place-items-stretch lg:w-2/3 md:w-3/4 xs:w-full">
-                    <div className="flex flex-col items-cent6er bg-slate-200 rounded-3xl border-2 border-lime-500 shadow-xl py-3 m-2">
+            <div className="grid lg:grid-cols-2 md:grid-cols-1 place-items-stretch lg:w-2/3 md:w-3/4 xs:w-4/5">
+
+                    <div className="flex flex-col items-cent6er bg-slate-200 hover:bg-slate-200 transition-colors duration-200 rounded-3xl border-2 border-lime-500 shadow-xl py-3 m-2">
                         <h2 className="font-inconsolata text-4xl font-semibold text-center mb-3">Front-End</h2>
                         <div className="flex flex-col xs:place-items-center font-inconsolata text-3xl">
 
