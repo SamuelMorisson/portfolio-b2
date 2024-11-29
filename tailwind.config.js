@@ -27,6 +27,9 @@ export default {
       boxShadow: {
         'inner-custom': 'inset 0 4px 4px rgba(0, 0, 0, 0.1)',
       },
+      transitionDelay: {
+        '400': '400ms',
+      },
     },
   },
   plugins: [],
