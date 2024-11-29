@@ -4,7 +4,6 @@ import Competences from "./components/Competences"
 import Projets from "./components/Projets"
 import Contact from "./components/Contact"
 import NavBar from './components/NavBar'
-//import Burger from "./BurgerTest"
 import './App.css'
 import './index.css'
 
@@ -13,10 +12,8 @@ function App() {
   return (
     /*
     Reste à faire:
-     - Titre de chaque partie identique (corriger Projet)
      - Bug NavBar Burger occupe l'écran même absent
      - Améliorer présentation
-     - Image absente sur Netlify
      - Formulaire de contact fonctionnel
      
     (non prioritaires)
@@ -26,46 +23,11 @@ function App() {
     */
     <>
     <div>
-      <div>
-        <NavBar />
-        <Presentation />
-        <Competences />
-        <Projets />
-        <Contact />
-      </div>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
-        <p>remplissage</p>
+      <NavBar />
+      <Presentation />
+      <Competences />
+      <Projets />
+      <Contact />
     </div>
     </>
   )
