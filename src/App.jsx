@@ -10,17 +10,6 @@ import './index.css'
 function App() {
 
   return (
-    /*
-    Reste à faire:
-     - Bug NavBar Burger occupe l'écran même absent
-     - Améliorer présentation
-     - Formulaire de contact fonctionnel
-     
-    (non prioritaires)
-     - Parcours/Expériencs
-     - Adapter partie "projets" en caroussel
-     - ajouter images compressées
-    */
     <>
     <div>
       <NavBar />
