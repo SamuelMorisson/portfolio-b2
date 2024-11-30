@@ -31,7 +31,7 @@ function Contact () {
                     <div className="lg:w-1/2 minSize:w-2/3">
                         <p className="font-inconsolata text-xl"> Télécharger mon CV:</p>
                         <a href="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/CV%20Samuel%20Morisson.pdf?raw=true" target="_blank" rel="noopener noreferrer">
-                            <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cv.png?raw=true" className="items-center border-4 border-slate-400 hover:border-lime-500 hover:shadow-2xl overflow-hidden" />
+                            <img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cv.webp?raw=true" className="items-center border-4 border-slate-400 hover:border-lime-500 hover:shadow-2xl overflow-hidden" />
                         </a>
                     </div>
                 </div>
