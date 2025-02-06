@@ -24,7 +24,7 @@ function Contact () {
                         </div>
                     </form>
 
-                    <div className="lg:w-1/3 py-10 m-2 bg-slate-200 md:rounded-none md:rounded-3xl minSize:rounded-3xl border-2 border-lime-500 shadow-xl flex flex-col items-center">
+                    <div className="lg:w-1/3 py-10 m-2 bg-slate-200 md:rounded-3xl md:rounded-3xl minSize:rounded-3xl border-2 border-lime-500 shadow-xl flex flex-col items-center">
                         <div className="p-4 pt-3 border-2 border-slate-300 mb-6">
                             <p className="font-inconsolata text-xl">Mon E-mail:</p>
                             <p className="font-inconsolata text-xl underline">samuel.morisson@ynov.com</p>
