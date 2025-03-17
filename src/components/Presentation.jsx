@@ -1,7 +1,7 @@
 function Presentation () {
     return (
         <>
-        <div id="presentation" className="mt-5 mb-20 pt-20 flex flex-col items-center">
+        <div name="blocPresentation" id="presentation" className="mt-5 mb-20 pt-20 flex flex-col items-center">
             <div className="items-center justify-center mb-9 border-2 border-lime-500 rounded-3xl p-3">
                 <p className="bg-opacity-30 px-5 sm:text-6xl minSize:text-5xl font-inconsolata">Samuel Morisson</p>
                 <p className="bg-opacity-30 text-3xl text-center font-inconsolata italic">Étudiant en Informatique</p>
