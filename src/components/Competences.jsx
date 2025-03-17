@@ -3,7 +3,7 @@ function Competences () {
         <>
         <div id="competences" name="blocCompetences" aria-label="Compétences" className="flex flex-col items-center my-20 pt-20">
             <div>
-                <h1 className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl mb-9">Compétences</h1>
+                <h1 name="titreCompetences" aria-label="Compétences" className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl mb-9">Compétences</h1>
             </div>
 
             <div className="grid lg:grid-cols-2 md:grid-cols-1 place-items-stretch lg:w-2/3 md:w-3/4 xs:w-4/5">
