@@ -1,7 +1,7 @@
 function Competences () {
     return (
         <>
-        <div id="competences" name="blocCompetences" className="flex flex-col items-center my-20 pt-20">
+        <div id="competences" name="blocCompetences" aria-label="Compétences" className="flex flex-col items-center my-20 pt-20">
             <div>
                 <h1 className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl mb-9">Compétences</h1>
             </div>

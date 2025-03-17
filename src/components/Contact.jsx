@@ -1,7 +1,7 @@
 function Contact () {
     return (
         <>
-        <div name="blocContact" id="contact" className="flex flex-col items-center my-20 pt-20">
+        <div name="blocContact" aria-label="Contact" id="contact" className="flex flex-col items-center my-20 pt-20">
             <div className="flex flex-col items-center lg:w-full sm:w-4/5">
             
                 <div className="text-center mb-9">

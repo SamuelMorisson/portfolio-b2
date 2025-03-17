@@ -1,7 +1,7 @@
 function Projets () {
     return (
         <>
-        <div id="projets" name="blocProjets" className="flex flex-col items-center my-20 pt-20">
+        <div id="projets" name="blocProjets" aria-label="Projets" className="flex flex-col items-center my-20 pt-20">
             <div className="flex flex-col items-center md:w-4/5 sm:w-4/5">
                 <div className="text-center mb-9">
                     <h1 className="font-inconsolata sm:text-6xl minSize:text-5xl p-3 border-2 border-lime-500 rounded-3xl">Projets</h1>
