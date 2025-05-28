@@ -60,17 +60,17 @@ function Competences () {
                             w-2/3 md:w-full m-auto gap-y-3 place-items-start md:place-items-center">
 
                         <div className="flex flex-col items-center gap-y-4">
-                            <img alt="logo mysql" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_flask.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
+                            <img alt="logo mysql" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_mysql.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
                             <p className="text-2xl">• MySQL</p>
                         </div>
 
                         <div className="flex flex-col items-center gap-y-4">
-                            <img alt="logo postgresql" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_javascript.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
+                            <img alt="logo postgresql" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_postgresql.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
                             <p className="text-2xl">• PostgreSQL</p>
                         </div>
 
                         <div className="flex flex-col items-center gap-y-4">
-                            <img alt="logo mongodb" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_react.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
+                            <img alt="logo mongodb" src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/logo_mongodb.webp?raw=true" className="h-[48px] lg:h-[100px] hidden xs:block" />
                             <p className="text-2xl">• MongoDB</p>
                         </div>
                     </div>
