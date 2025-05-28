@@ -33,9 +33,9 @@ function Projets () {
                         <a href="https://github.com/data-fair/app-chord-diagram" target="_blank" rel="noopener noreferrer" className="font-inconsolata text-3xl font-semibold hover:text-lime-700 hover:underline">Cocktail API</a>
                         <a href="https://github.com/data-fair/app-chord-diagram" target="_blank" rel="noopener noreferrer" className="w-3/4 my-3 border-4 border-slate-400 hover:border-lime-500 hover:shadow-2xl overflow-hidden">
                             <Swiper slidesPerView={1} loop={true} autoplay={{ delay: 2000, disableOnInteraction: false }} className="w-full overflow-hidden">
-                                <SwiperSlide><img src="/screenshot_cocktail-1.png" className="w-full" /></SwiperSlide>
-                                <SwiperSlide><img src="/screenshot_cocktail-2.png" className="w-full" /></SwiperSlide>
-                                <SwiperSlide><img src="/screenshot_cocktail-3.png" className="w-full" /></SwiperSlide>
+                                <SwiperSlide><img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cocktail-1.webp?raw=true" className="w-full" /></SwiperSlide>
+                                <SwiperSlide><img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cocktail-2.webp?raw=true" className="w-full" /></SwiperSlide>
+                                <SwiperSlide><img src="https://github.com/SamuelMorisson/portfolio-b2/blob/main/public/screenshot_cocktail-3.webp?raw=true" className="w-full" /></SwiperSlide>
                             </Swiper>
                         </a>
                         <p className="w-3/4 my-3 p-1 border-2 border-slate-300 font-inconsolata text-2xl leading-relaxed">Création d'un site de partage de recettes de cocktail. Gestion de la base de données et des cocktails. Projet scolaire</p>
